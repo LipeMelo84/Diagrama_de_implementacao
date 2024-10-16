@@ -1,0 +1,75 @@
+FINANÇEIRA PARA AGROPECURIA E PECUARIA
+
+
+EMPRESA AJUDA NA ADMINISTRAÇÃO DE RECURSOS
+
+1 GERENTE
+10 funcionarios
+
+empresa pequena e familiar
+
+empresa quer automação
+
+aprincipio comando por voz para portas e desligar luzes e equipamentos
+
+mais economia e meio ambiente
+
+tem vontade de expandir 
+
+clientes pequenas e grandes empresas
+
+atulmente tudo manual na empresa
+
+gestores e tecnicos se revezando em homeoffice e gerente em horario comercial
+
+rh entra mais cedo
+
+comunicação com clientes por e-mail e pessoal
+
+empresa sem marketin
+
+preferencia por cliente perto 
+
+comandos pelo celular
+
+perde clientes por nao ter tecnologia
+
+clientes produtores de soja e borracha
+
+
+DORES DA EMPRESA
+1- inclusao social funcionaria deficiente visual 
+2- economia de energia
+3- IA apenas em horario comercial
+4- nao dar o mesmo acesso a todos funcionarios
+5- salas com controle (sala do gerente) (sala do rh)
+6- sistema especifico para a empresa servidos local
+7- atualmente tem 5-6 salas
+8- prioridade sistema da porta
+9- predio comercial
+10- rh com acesso a todas as salas
+11- comando de voz para desligar luzes e ar condicionado sem restrição
+12- voz deve ser reconhecido e filtrado ruido
+13- gerente (9 as 19) Rh 3 pessoas (8:30 as 18 )
+14- sistema de cameras e processamento de imagens
+15- reconhecimento facil porem complicado
+16- sem restriçao na area interna 
+17- area locada
+18- mensagens de texto no whazap 
+
+
+
+acesso a entrada
+acesso as camêras
+acesso a sala  do RH e do gerente
+acesso a comandos de voz ligar e desligar as luzes
+acesso ao reconhecimento facial
+abrir a porta de entrada com o sensor celular
+abrir as portas sala  RH e sala gerente com sensor celular ou comando de voz 
+apagar e ligar as luzes por comando de voz 
+apagar e ligar o ar condicionado por comando de voz
+recebe mensagem caso haver movimentação as das 8h e após as 18h
+abrir a porta de entrada com o sensor celular
+abrir as portas sala  RH e sala gerente com sensor celular ou comando de voz
+apagar e ligar as luzes por comando de voz
+apagar e ligar o arcondicio na do por comando de voz
